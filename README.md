@@ -1,3 +1,6 @@
+I created a TypeScript-enabled React app with:
+`npx create-react-app my-app --template typescript`
+
 I followed these instructions to host my [React app on GitHub Pages](https://medium.com/better-programming/how-to-host-your-react-app-on-github-pages-for-free-919ad201a4cb)
 
 # Getting Started with Create React App
