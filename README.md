@@ -1,3 +1,5 @@
+I followed these instructions to host my [React app on GitHub Pages](https://medium.com/better-programming/how-to-host-your-react-app-on-github-pages-for-free-919ad201a4cb)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
